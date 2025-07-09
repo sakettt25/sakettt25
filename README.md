@@ -1,13 +1,13 @@
-[![](https://visitcount.itsvg.in/api?id=anshc022&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sakettt25&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Pranshu+Chourasia;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Saket+Saurav;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
 ## 👨‍💻 About Me
-I'm a passionate Full Stack Developer and App Developer with a Computer Science Engineering background. I thrive on building innovative solutions in web development, mobile apps, and AI ML.
+I'm a passionate Full Stack Developer , App Developer and aspiring Software Engineer (SWE) with a Computer Science Engineering background from KIIT DU. I thrive on building meaningful tech—especially in full-stack web development, AI-powered apps, and real-time solutions.
 
 ## 🌱 Currently Learning
 - Spring Boot
@@ -71,13 +71,56 @@ I'm a passionate Full Stack Developer and App Developer with a Computer Science 
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/100+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/25+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
         <br />
         <small>Completed Projects</small>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/500+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/300+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
         <br />
+        <small>Open Source Contributions</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/5+-Certifications-FF6C37?style=for-the-badge&logo=acclaim&logoColor=white"/>
+        <br />
+        <small>Tech Certifications</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakettt25&theme=dark" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakettt25&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakettt25&layout=compact&theme=dark&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakettt25&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakettt25&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sakettt25/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:saketsauravcse@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](saket-3d-portfolio.vercel.app)
+
+---
+<p align="center">
+  <i>Let’s build something amazing together! 🚀</i>
+</p>
+ />
         <small>Open Source Contributions</small>
       </td>
       <td align="center">
@@ -91,21 +134,22 @@ I'm a passionate Full Stack Developer and App Developer with a Computer Science 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshc022&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakettt25&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshc022&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshc022&layout=compact&theme=dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakettt25&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakettt25&layout=compact&theme=dark&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshc022&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakettt25&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshc022&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakettt25&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
